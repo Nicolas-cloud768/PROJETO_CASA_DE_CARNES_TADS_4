@@ -61,4 +61,4 @@ public void gerarRelatorio() {
         default:
             throw new IllegalArgumentException("Tipo de relatório inválido: " + tipo);
     }
-}
+}// atualizacao 13/11/26
